@@ -9,7 +9,7 @@ class BookingConfirmationPage extends StatelessWidget {
   final String zone;
 
   const BookingConfirmationPage({
-    super.key,
+    super.key;
     required this.mall,
     required this.level,
     required this.zone,
